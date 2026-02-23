@@ -19,7 +19,7 @@ I'm a CS undergrad diving deep into **Artificial Intelligence**, **Computer Visi
 ### 🏆 Hackathon Journey
 
 * 🌍 **Top 6** | *Project AiGRI* — APRU Tech Policy Hackathon 2025 (Thailand)
-* 🚀 **Participant** | *123-Go* — RScene 2025 (Catbalogan) *(My first ever hackathon!)*
+* 🚀 **Top 5** | *123-Go* — RScene 2025 (Catbalogan) *(My first ever hackathon!)*
 
 ---
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
