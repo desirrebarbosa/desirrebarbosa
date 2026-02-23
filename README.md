@@ -3,14 +3,15 @@
 ### 👩‍💻 3rd Year Computer Science Student @ University of the Philippines Tacloban College
 
 I'm a Computer Science student currently diving deep into Artificial Intelligence, Computer Vision, and full-stack application development. When I'm not writing code or troubleshooting dependencies, I sleep. 💤
+Open for collaborations!
 
+Reach me at: desblssbarbosa@gmail.com
 ---
 
 ### 🚀 What I'm Currently Working On
 
 * 🎓 **[Top Secret]:** My undergraduate thesis focusing on... *[will tell you guys once I finish defending it!]* 🤫
 * 📱 **Catly:** A cat management mobile application built with React Native and Supabase.
-* 🔥 **Ember / Cinder:** Exploring therapeutic mobile app concepts for digitally "burning" letters and notes.
 * ☕ **School Requirements:** Keeping track of my academic progress here and hosting projects for smooth collaboration with my classmates.
 
 ---
@@ -22,31 +23,94 @@ I'm a Computer Science student currently diving deep into Artificial Intelligenc
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-**Languages & Web:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<!-- ========== TILE STYLES (inline) ========== -->
+<!-- Tip: To add a new logo, copy one <span>...</span> tile and change the img src + alt -->
 
-**Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white)
+<h3>Languages</h3>
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="34" height="34" alt="C" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="34" height="34" alt="C++" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" height="34" alt="Python" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="34" height="34" alt="Java" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript" />
+  </span>
+</div>
 
-**Machine Learning & Data Science:**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<h3>Web</h3>
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="34" height="34" alt="HTML5" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="34" height="34" alt="CSS3" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34" height="34" alt="React" />
+  </span>
+</div>
 
-**App & Game Development:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=java&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+<h3>Databases</h3>
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="34" height="34" alt="MySQL" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="34" height="34" alt="PostgreSQL" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="34" height="34" alt="SQLite" />
+  </span>
+</div>
 
-**Tools & Infrastructure:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<h3>Machine Learning & Data</h3>
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="34" height="34" alt="PyTorch" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="34" height="34" alt="scikit-learn" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="34" height="34" alt="Pandas" />
+  </span>
+</div>
+
+<h3>App & Game Development</h3>
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="34" height="34" alt="Flutter" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34" height="34" alt="React Native" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="34" height="34" alt="Godot" />
+  </span>
+</div>
+
+<h3>Tools & Infrastructure</h3>
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="34" height="34" alt="Git" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="34" height="34" alt="GitHub" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code" />
+  </span>
+  <span style="width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.08);">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="34" height="34" alt="Supabase" />
+  </span>
+</div>
