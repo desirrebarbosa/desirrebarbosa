@@ -1,6 +1,6 @@
 # Hi, I'm Des 👋
 
-3rd Year CS @ University of the Philippines Tacloban College. Interested in AI, Computer Vision, and Full-Stack Development.
+3rd Year CS @ University of the Philippines Tacloban College. Interested in Software Engineering, AI Research and Enginering, and Business.
 
 📫 [desblssbarbosa@gmail.com](mailto:desblssbarbosa@gmail.com)
 
