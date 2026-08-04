@@ -5,8 +5,8 @@
 📫 [desblssbarbosa@gmail.com](mailto:desblssbarbosa@gmail.com)
 
 ### Hackathons
-- **Top 6** — Project AiGRI, APRU Tech Policy Hackathon 2025 (Thailand)
-- **Top 5** — 123-Go, RScene 2025 (Catbalogan)
+- **Honorable Mention** — Project AiGRI, APRU Tech Policy Hackathon 2025 (Thailand)
+- **5th Place** — 123-Go, RScene 2025 (Catbalogan)
 
 ### Tech
 
