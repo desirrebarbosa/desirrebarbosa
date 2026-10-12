@@ -1,13 +1,13 @@
-# Hi, I'm Des 👋
+# Des Barbosa
 
-4th Year CS @ University of the Philippines Tacloban College. Interested in Software Engineering, AI Research and Enginering, and Business Technology.
+4th-year Computer Science student at the University of the Philippines Tacloban College. I work on software engineering, AI research and engineering, and business technology.
 
-📫 [desblssbarbosa@gmail.com](mailto:desblssbarbosa@gmail.com)
+Contact: [desblssbarbosa@gmail.com](mailto:desblssbarbosa@gmail.com)
 
 ### Hackathons
-- **Champion!!** - PIA-Waterback powered by 123go!, RScene 2026 (Catbalogan)
+- **1st Place** (Champion) — PIA-Waterback, powered by 123go!, RSCENE 2026 (Catbalogan)
 - **Honorable Mention** — Project AiGRI, APRU Tech Policy Hackathon 2025 (Thailand)
-- **5th Place** — 123go!, RScene 2025 (Catbalogan)
+- **5th Place** — 123go!, RSCENE 2025 (Catbalogan)
 
 ### Tech
 
