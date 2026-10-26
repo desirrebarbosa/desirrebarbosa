@@ -1,6 +1,6 @@
 # Des Barbosa
 
-4th-year Computer Science student at the University of the Philippines Tacloban College. I work on software engineering, AI research and engineering, and business technology.
+4th-year Computer Science student at the University of the Philippines Tacloban College. Interested in AI Research, Software Engineering, among many others. TOPCIT L3 with a score of 520.
 
 Contact: [desblssbarbosa@gmail.com](mailto:desblssbarbosa@gmail.com)
 
